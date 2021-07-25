@@ -1,0 +1,25 @@
+{
+  "name": "iplocate",
+  "version": "1.0.0",
+  "description": "ip locate .....",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egabcd/iplocate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/egabcd/iplocate/issues"
+  },
+  "homepage": "https://github.com/egabcd/iplocate#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.31.0"
+  }
+}
